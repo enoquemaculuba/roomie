@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "sqlite3": "^5.0.2",
+    "string-sanitizer": "^2.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
